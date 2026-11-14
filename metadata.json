@@ -1,0 +1,6 @@
+{
+  "name": "Gavel House",
+  "description": "A live auction and bidding Android app for discovering curated lots, placing real-time bids, and hosting auctions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
